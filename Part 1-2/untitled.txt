@@ -1,0 +1,6 @@
+1. Why are you taking this class?
+I always learn something new whenever I teach a class.
+2. What are you most excited to learn about?
+The use cases everyone will have for anomaly detection.
+3. What kinds of problems could anomaly detection solve in your work?
+Cybersecurity: intrusion detection
